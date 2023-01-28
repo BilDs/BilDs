@@ -1,3 +1,1 @@
-Hi, I'm BilDs, Bilal, a 28 years old graduate of Saint Petersburg Electro-technical University, Computer Science and Knowledge Discovery. My goal is to start my career in the field of my professional expertise, which is Data Analysis and Data Science. I’m also with a good networking background and now I am searching for any starting positions in Data Analysis, Data Science, Data Engineering, Business Analytics and others. My best skills are related to working and dealing with data, databases, exploring and analyzing data with Python and SQL.
-I have done some work analysis on some datasets so you can have an idea about my skills and how I can handle data. You can check that in my repository
-I also love other challenging tasks coding with python, writing skripts or algorithms, for example the ford fulkerson algorithm on graphs I did, I love similar tasks and always open to meet new tasks. 
+
